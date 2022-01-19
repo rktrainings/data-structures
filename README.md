@@ -19,3 +19,38 @@ As applications are getting complex and data rich, there are three common proble
 
 To solve the above-mentioned problems, data structures come to rescue. 
 Data can be organized in a data structure in such a way that all items may not be required to be searched, and the required data can be searched almost instantly.
+
+# Applications of Data Structure and Algorithms
+
+Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. 
+Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.
+
+From the data structure point of view, following are some important categories of algorithms −
+
+    Search − Algorithm to search an item in a data structure.
+
+    Sort − Algorithm to sort items in a certain order.
+
+    Insert − Algorithm to insert item in a data structure.
+
+    Update − Algorithm to update an existing item in a data structure.
+
+    Delete − Algorithm to delete an existing item from a data structure.
+
+The following computer problems can be solved using Data Structures −
+
+    Fibonacci number series
+    Knapsack problem
+    Tower of Hanoi
+    All pair shortest path by Floyd-Warshall
+    Shortest path by Dijkstra
+    Project scheduling
+
+Audience
+
+This repository is designed for Computer Science graduates as well as Software Professionals who are willing to learn data structures and algorithm programming in simple and easy steps.
+
+After completing this repository you will be at intermediate level of expertise from where you can take yourself to higher level of expertise.
+Prerequisites
+
+Before proceeding with this repository, you should have a basic understanding of C programming language, text editor, and execution of programs, etc.
